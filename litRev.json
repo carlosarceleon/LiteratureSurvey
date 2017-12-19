@@ -1,0 +1,2203 @@
+[
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.MS Howe", 
+      "LitReview.Institutions.BBN Laboratories", 
+      "LitReview.Rating.****", 
+      "LitReview.Airfoils.Flat plate", 
+      "LitReview.Method.Analytical", 
+      "LitReview.Focus.Green's function", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Reduction.-10 dB"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Howe1990", 
+   "year": 1990
+},
+{
+   "imports": [
+      "LitReview.Re.[100000 - 600000]", 
+      "LitReview.Serration Param.10:1", 
+      "LitReview.Serration Param.C 26%", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Institutions.AVIO RD", 
+      "LitReview.Re.160000", 
+      "LitReview.Authors.MS Howe", 
+      "LitReview.AoA.[-5 - 15]", 
+      "LitReview.Serration Param.10:01", 
+      "LitReview.Exp method.Wind tunnel", 
+      "LitReview.Span.1,4", 
+      "LitReview.Re.600000", 
+      "LitReview.Authors.J Bruggeman", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Authors.T Chong", 
+      "LitReview.Institutions.BBN Laboratories", 
+      "LitReview.Authors.R Arina", 
+      "LitReview.Authors.R Parchen", 
+      "LitReview.Serration Param.1,6:1", 
+      "LitReview.Span.0,01", 
+      "LitReview.Findings.Worst serrations, 3:1, 6% C", 
+      "LitReview.Findings.Serrations reduce noise for h/BL > 0,5", 
+      "LitReview.Serration Param.1,2:1", 
+      "LitReview.Re.420000", 
+      "LitReview.Focus.Exotic serrations", 
+      "LitReview.AoA.4,2", 
+      "LitReview.Findings.Serrations promote horseshoe vortices", 
+      "LitReview.Authors.T Dassen", 
+      "LitReview.Serration Param.10:1 Angled TE, straight teeth", 
+      "LitReview.Chord.0,45", 
+      "LitReview.Authors.D Torzo", 
+      "LitReview.Serration Param.10:1 Incident", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Serration Param.10:1 Angled airfoil, straight teeth", 
+      "LitReview.Findings.Numerical is in good agreement with experiment", 
+      "LitReview.Serration Param.1:1", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Institutions.University of Adelaide", 
+      "LitReview.AoA.15", 
+      "LitReview.Serration Param.3:1", 
+      "LitReview.Authors.C Doolan", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Authors.F Hagg", 
+      "LitReview.Serration Param.2,4:1", 
+      "LitReview.Re.50000", 
+      "LitReview.Serration Param.5:1", 
+      "LitReview.Serration Param.20:1", 
+      "LitReview.Exp method.Adelaide Wind Tunnel", 
+      "LitReview.Num method.LES (SGS)", 
+      "LitReview.Authors.A Iob", 
+      "LitReview.Focus.Validation of numerical vs experiment", 
+      "LitReview.Findings.Serrations with slits reduce on all frequency ranges", 
+      "LitReview.Authors.M Azarpeyvand", 
+      "LitReview.Serration Param.Serrations with slits", 
+      "LitReview.Findings.Reduction of laminar noise, 13 better than 7% C", 
+      "LitReview.Chord.135", 
+      "LitReview.Serration Param.2,35:1", 
+      "LitReview.Institutions.University of Cambridge", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Serration Param.13:1", 
+      "LitReview.Num method.DNS", 
+      "LitReview.Airfoils.Flat plate", 
+      "LitReview.AoA.0", 
+      "LitReview.Findings.Serrations increase noise after f(BL)/U>1", 
+      "LitReview.AoA.5", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Authors.L Jones", 
+      "LitReview.Institutions.Brunel University", 
+      "LitReview.Institutions.NLR", 
+      "LitReview.Method.Analytical", 
+      "LitReview.Span.0,51", 
+      "LitReview.Serration Param.6:1", 
+      "LitReview.Serration Param.Serrations with holes", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Findings.Serrations affect the flow field (Howe says they don't)", 
+      "LitReview.Focus.Howe's theory validation", 
+      "LitReview.Findings.Serrations do not change spanwise correlation", 
+      "LitReview.Authors.R Sandberg", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Re.200000", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Chord.0,16", 
+      "LitReview.Serration Param.C 19%", 
+      "LitReview.Re.[700000 -1400000]", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Reduction.5 dB", 
+      "LitReview.Findings.St number reduction scaling depends on airfoil", 
+      "LitReview.Ma.0,4", 
+      "LitReview.Span.0,45", 
+      "LitReview.Findings.Serrations increase level of destructive interference", 
+      "LitReview.Serration Param.C 13%", 
+      "LitReview.Serration Param.4:1", 
+      "LitReview.Rating.*****", 
+      "LitReview.Focus.Howe's theory on other TE geometries", 
+      "LitReview.Findings.Best serrations, 6:1, 12% C", 
+      "LitReview.Findings.No U dependency for serration reduction", 
+      "LitReview.Ma.0,22", 
+      "LitReview.Findings.Serrations, wide perform better", 
+      "LitReview.Findings.Serration optimized parameters given", 
+      "LitReview.Findings.Serrations cause limit to max spanwise extent of turb structs", 
+      "LitReview.Serration Param.C 20%", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Airfoils.NACA 63618", 
+      "LitReview.Serration Param.10:1 Angled teeth", 
+      "LitReview.Serration Param.C 12%", 
+      "LitReview.Authors.L Brooks", 
+      "LitReview.Exp method.Single mic", 
+      "LitReview.Focus.Laminar noise", 
+      "LitReview.Chord.0,25", 
+      "LitReview.Authors.R Rinaldi", 
+      "LitReview.Findings.Serrations more effective for higher h/lambda", 
+      "LitReview.Airfoils.NACA 4418", 
+      "LitReview.Ma.0,18", 
+      "LitReview.Rating.****", 
+      "LitReview.Ma.0,12", 
+      "LitReview.Serration Param.3,3:1", 
+      "LitReview.Ma.0,17", 
+      "LitReview.Findings.Serrations reduce the unsteady pressure difference", 
+      "LitReview.Serration Param.[6,6:1 - 0,5:1]", 
+      "LitReview.Authors.D Moreau", 
+      "LitReview.Serration Param.C 6%", 
+      "LitReview.Findings.Serrations do not change directivity", 
+      "LitReview.Findings.Wide serrations are better", 
+      "LitReview.Rating.***", 
+      "LitReview.Reduction.-10 dB", 
+      "LitReview.Findings.Serrations reduce correlation length", 
+      "LitReview.AoA.1,4", 
+      "LitReview.Re.[200000 - 600000]", 
+      "LitReview.Serration Param.Slits", 
+      "LitReview.Serration Param.C 7%", 
+      "LitReview.Institutions.Politecnico di Torino", 
+      "LitReview.Serration Param.Serrations with random pattern", 
+      "LitReview.Institutions.The University of Adelaide", 
+      "LitReview.Re.800000", 
+      "LitReview.Airfoils.NACA 63018", 
+      "LitReview.Focus.Green's function", 
+      "LitReview.Authors.M Azerpeyvand"
+   ], 
+   "type": "Device", 
+   "name": "LitReview.Device.Serrations"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.MS Howe"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.BBN Laboratories"
+},
+{
+   "imports": [], 
+   "type": "Rating", 
+   "name": "LitReview.Rating.****"
+},
+{
+   "imports": [
+      "LitReview.Method.Experimental", 
+      "LitReview.Method.Analytical", 
+      "LitReview.Chord.2,0", 
+      "LitReview.Re.2100000", 
+      "LitReview.Re.7900000", 
+      "LitReview.Serration Param.10:1", 
+      "LitReview.Re.160000", 
+      "LitReview.Serration Param.C 26%", 
+      "LitReview.Institutions.University of Adelaide", 
+      "LitReview.Brush Param.0,1 to 0,3 mm sep", 
+      "LitReview.Authors.MS Howe", 
+      "LitReview.Focus.Howe's theory validation", 
+      "LitReview.Institutions.BBN Laboratories", 
+      "LitReview.Authors.L Brooks", 
+      "LitReview.Institutions.DLR", 
+      "LitReview.Authors.C Doolan", 
+      "LitReview.Reduction.-10 dB", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Brush Param.0,3 to 0,5 mm D", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Serration Param.5:1", 
+      "LitReview.Exp method.Adelaide Wind Tunnel", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Rating.****", 
+      "LitReview.Brush Param.steel", 
+      "LitReview.Serration Param.3,3:1", 
+      "LitReview.Chord.0,8", 
+      "LitReview.Serration Param.C 6%", 
+      "LitReview.Focus.Brush parameters", 
+      "LitReview.Rating.***", 
+      "LitReview.Span.1,4", 
+      "LitReview.Serration Param.1,6:1", 
+      "LitReview.Authors.M Herr", 
+      "LitReview.Rating.*****", 
+      "LitReview.Chord.135", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Focus.Exotic serrations", 
+      "LitReview.Re.420000", 
+      "LitReview.Exp method.Directional mics", 
+      "LitReview.Institutions.The University of Adelaide", 
+      "LitReview.AoA.0", 
+      "LitReview.Brush Param.Polypropilene", 
+      "LitReview.Brush Param.1,25% to 25% C", 
+      "LitReview.Chord.0,45", 
+      "LitReview.Exp method.AWBraunscheig", 
+      "LitReview.Authors.D Moreau", 
+      "LitReview.Focus.Green's function", 
+      "LitReview.Reduction.-4 dB"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.Flat plate"
+},
+{
+   "imports": [], 
+   "type": "Method", 
+   "name": "LitReview.Method.Analytical"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Green's function"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.0,0"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-10 dB"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.T Dassen", 
+      "LitReview.Authors.R Parchen", 
+      "LitReview.Authors.J Bruggeman", 
+      "LitReview.Authors.F Hagg", 
+      "LitReview.Institutions.NLR", 
+      "LitReview.Rating.****", 
+      "LitReview.Serration Param.10:01", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Airfoils.NACA 63018", 
+      "LitReview.Airfoils.NACA 63618", 
+      "LitReview.Airfoils.NACA 4418", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Exp method.Wind tunnel", 
+      "LitReview.Re.[700000 -1400000]", 
+      "LitReview.Ma.0,12", 
+      "LitReview.Ma.0,18", 
+      "LitReview.Ma.0,22", 
+      "LitReview.Chord.0,25", 
+      "LitReview.Span.0,51", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Findings.No U dependency for serration reduction"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Dassen1996", 
+   "year": 1996
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.T Dassen"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.R Parchen"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.J Bruggeman"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.F Hagg"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.NLR"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.10:01"
+},
+{
+   "imports": [
+      "LitReview.Re.[100000 - 600000]", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Institutions.The University of Tokyo", 
+      "LitReview.Serration Param.10:01", 
+      "LitReview.Institutions.DLR", 
+      "LitReview.Exp method.Wind tunnel", 
+      "LitReview.Authors.J Bruggeman", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Rating.**", 
+      "LitReview.Device.Serrations (BTE)", 
+      "LitReview.Authors.C Kato", 
+      "LitReview.Focus.CAA benchmark", 
+      "LitReview.Authors.R Parchen", 
+      "LitReview.Authors.TP Chong", 
+      "LitReview.Re.600000", 
+      "LitReview.Serration Param.1,2:1", 
+      "LitReview.AoA.4,2", 
+      "LitReview.Authors.T Dassen", 
+      "LitReview.Serration Param.10:1 Angled TE, straight teeth", 
+      "LitReview.Focus.BTE serrations", 
+      "LitReview.Serration Param.10:1 Incident", 
+      "LitReview.Serration Param.10:1 Angled airfoil, straight teeth", 
+      "LitReview.Serration Param.1:1", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Brush Param.1,25% to 25% C", 
+      "LitReview.Authors.F Hagg", 
+      "LitReview.Serration Param.2,4:1", 
+      "LitReview.Re.50000", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Chord.1,0", 
+      "LitReview.Re.1600000", 
+      "LitReview.Focus.Brush parameters", 
+      "LitReview.Authors.R Sandberg", 
+      "LitReview.Serration Param.2,35:1", 
+      "LitReview.Num method.DNS", 
+      "LitReview.AoA.5", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Exp method.AWBraunscheig", 
+      "LitReview.Authors.L Jones", 
+      "LitReview.Institutions.Brunel University", 
+      "LitReview.Institutions.NLR", 
+      "LitReview.Num method.LES", 
+      "LitReview.Span.0,51", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Brush Param.0,1 to 0,3 mm sep", 
+      "LitReview.Num method.Curle", 
+      "LitReview.Authors.M Herr", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Brush Param.0,3 to 0,5 mm D", 
+      "LitReview.Re.200000", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Reduction.5 dB", 
+      "LitReview.Brush Param.steel", 
+      "LitReview.Ma.0,4", 
+      "LitReview.Span.0,45", 
+      "LitReview.Serration Param.C 13%", 
+      "LitReview.Serration Param.4:1", 
+      "LitReview.Rating.*****", 
+      "LitReview.Ma.0,22", 
+      "LitReview.Exp method.Directional mics", 
+      "LitReview.Authors.T Chong", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Serration Param.10:1 Angled teeth", 
+      "LitReview.Serration Param.C 12%", 
+      "LitReview.Exp method.Single mic", 
+      "LitReview.Reduction.-10 dB", 
+      "LitReview.Span.0,5", 
+      "LitReview.Ma.0,18", 
+      "LitReview.Rating.****", 
+      "LitReview.Ma.0,12", 
+      "LitReview.Reduction.-8 dB", 
+      "LitReview.Serration Param.C 6%", 
+      "LitReview.Rating.***", 
+      "LitReview.Focus.Laminar noise", 
+      "LitReview.Re.1100000", 
+      "LitReview.Brush Param.Polypropilene", 
+      "LitReview.Chord.0,4", 
+      "LitReview.AoA.1,4", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Re.[700000 -1400000]", 
+      "LitReview.Serration Param.C 7%", 
+      "LitReview.Chord.0,25", 
+      "LitReview.AoA.9,0", 
+      "LitReview.Reduction.-4 dB"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA 0012"
+},
+{
+   "imports": [
+      "LitReview.Method.Experimental", 
+      "LitReview.Institutions.NLR", 
+      "LitReview.Serration Param.10:1 Incident", 
+      "LitReview.Serration Param.10:1 Angled teeth", 
+      "LitReview.Span.0,51", 
+      "LitReview.Serration Param.10:1 Angled airfoil, straight teeth", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Ma.0,18", 
+      "LitReview.Serration Param.10:01", 
+      "LitReview.Exp method.Wind tunnel", 
+      "LitReview.Authors.F Hagg", 
+      "LitReview.Authors.J Bruggeman", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Rating.****", 
+      "LitReview.Ma.0,12", 
+      "LitReview.Authors.R Parchen", 
+      "LitReview.Reduction.5 dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Re.[700000 -1400000]", 
+      "LitReview.Authors.T Dassen", 
+      "LitReview.Serration Param.10:1 Angled TE, straight teeth", 
+      "LitReview.Chord.0,25", 
+      "LitReview.Ma.0,22"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA 63018"
+},
+{
+   "imports": [
+      "LitReview.Method.Experimental", 
+      "LitReview.Institutions.NLR", 
+      "LitReview.Serration Param.10:1 Incident", 
+      "LitReview.Serration Param.10:1 Angled teeth", 
+      "LitReview.Span.0,51", 
+      "LitReview.Serration Param.10:1 Angled airfoil, straight teeth", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Ma.0,18", 
+      "LitReview.Serration Param.10:01", 
+      "LitReview.Exp method.Wind tunnel", 
+      "LitReview.Authors.F Hagg", 
+      "LitReview.Authors.J Bruggeman", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Rating.****", 
+      "LitReview.Ma.0,12", 
+      "LitReview.Authors.R Parchen", 
+      "LitReview.Reduction.5 dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Re.[700000 -1400000]", 
+      "LitReview.Authors.T Dassen", 
+      "LitReview.Serration Param.10:1 Angled TE, straight teeth", 
+      "LitReview.Chord.0,25", 
+      "LitReview.Ma.0,22"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA 63618"
+},
+{
+   "imports": [
+      "LitReview.Method.Experimental", 
+      "LitReview.Institutions.NLR", 
+      "LitReview.Serration Param.10:1 Incident", 
+      "LitReview.Serration Param.10:1 Angled teeth", 
+      "LitReview.Span.0,51", 
+      "LitReview.Serration Param.10:1 Angled airfoil, straight teeth", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Ma.0,18", 
+      "LitReview.Serration Param.10:01", 
+      "LitReview.Exp method.Wind tunnel", 
+      "LitReview.Authors.F Hagg", 
+      "LitReview.Authors.J Bruggeman", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Rating.****", 
+      "LitReview.Ma.0,12", 
+      "LitReview.Authors.R Parchen", 
+      "LitReview.Reduction.5 dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Re.[700000 -1400000]", 
+      "LitReview.Authors.T Dassen", 
+      "LitReview.Serration Param.10:1 Angled TE, straight teeth", 
+      "LitReview.Chord.0,25", 
+      "LitReview.Ma.0,22"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA 4418"
+},
+{
+   "imports": [], 
+   "type": "Method", 
+   "name": "LitReview.Method.Experimental"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Serration parameters"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.Wind tunnel"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.[700000 -1400000]"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0,12"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0,18"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0,22"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,25"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0,51"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-5 dB"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.No U dependency for serration reduction"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.10:1 Incident"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.5 dB"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.10:1 Angled TE, straight teeth"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-3 dB"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.10:1 Angled teeth"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.10:1 Angled airfoil, straight teeth"
+},
+{
+   "imports": [
+      "LitReview.Authors.A Oberai", 
+      "LitReview.Authors.F Roknaldin", 
+      "LitReview.Authors.T Hughes", 
+      "LitReview.Institutions.Stanford University", 
+      "LitReview.Rating.***", 
+      "LitReview.Airfoils.Eppler387", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.CAA benchmark", 
+      "LitReview.Num method.LES", 
+      "LitReview.Num method.Curle", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.AoA.0,0"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Oberai2002", 
+   "year": 2002
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.A Oberai"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.F Roknaldin"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.T Hughes"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Stanford University"
+},
+{
+   "imports": [], 
+   "type": "Rating", 
+   "name": "LitReview.Rating.***"
+},
+{
+   "imports": [
+      "LitReview.Authors.A Oberai", 
+      "LitReview.Authors.F Roknaldin", 
+      "LitReview.Authors.T Hughes", 
+      "LitReview.Institutions.Stanford University", 
+      "LitReview.Rating.***", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.CAA benchmark", 
+      "LitReview.Num method.LES", 
+      "LitReview.Num method.Curle", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.AoA.0,0"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.Eppler387"
+},
+{
+   "imports": [], 
+   "type": "Method", 
+   "name": "LitReview.Method.Numerical"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.CAA benchmark"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.LES"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.Curle"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.FW-H"
+},
+{
+   "imports": [
+      "LitReview.Authors.C Kato", 
+      "LitReview.Institutions.The University of Tokyo", 
+      "LitReview.Rating.**", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.CAA benchmark", 
+      "LitReview.Num method.LES", 
+      "LitReview.Num method.Curle", 
+      "LitReview.Re.200000", 
+      "LitReview.AoA.9,0", 
+      "LitReview.Chord.1,0", 
+      "LitReview.Span.0,5"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Kato2005", 
+   "year": 2005
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.C Kato"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.The University of Tokyo"
+},
+{
+   "imports": [], 
+   "type": "Rating", 
+   "name": "LitReview.Rating.**"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.200000"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.9,0"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.1,0"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0,5"
+},
+{
+   "imports": [
+      "LitReview.Device.Brushes", 
+      "LitReview.Authors.M Herr", 
+      "LitReview.Institutions.DLR", 
+      "LitReview.Rating.*****", 
+      "LitReview.Brush Param.Polypropilene", 
+      "LitReview.Brush Param.steel", 
+      "LitReview.Brush Param.0,3 to 0,5 mm D", 
+      "LitReview.Brush Param.0,1 to 0,3 mm sep", 
+      "LitReview.Brush Param.1,25% to 25% C", 
+      "LitReview.Airfoils.Flat plate", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Brush parameters", 
+      "LitReview.Exp method.AWBraunscheig", 
+      "LitReview.Exp method.Directional mics", 
+      "LitReview.Re.2100000", 
+      "LitReview.Chord.0,8", 
+      "LitReview.Reduction.-4 dB", 
+      "LitReview.Reduction.-10 dB", 
+      "LitReview.Findings.Best brushes: polyprop, 0,4 mm D, 8,75% C, 0,1 mm S"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Herr2007", 
+   "year": 2007
+},
+{
+   "imports": [
+      "LitReview.Method.Experimental", 
+      "LitReview.Chord.2,0", 
+      "LitReview.Findings.Brush disorganizes eddies", 
+      "LitReview.Authors.M Roger", 
+      "LitReview.Re.2100000", 
+      "LitReview.Re.7900000", 
+      "LitReview.Findings.Best brushes: polyprop, 0,4 mm D, 8,75% C, 0,1 mm S", 
+      "LitReview.Brush Param.0,1 to 0,3 mm sep", 
+      "LitReview.Findings.Brush brakes up eddies and change l_y", 
+      "LitReview.Institutions.DLR", 
+      "LitReview.Reduction.-10 dB", 
+      "LitReview.Authors.M Herr", 
+      "LitReview.Brush Param.0,3 to 0,5 mm D", 
+      "LitReview.Span.0,3", 
+      "LitReview.Findings.Brush slightly reduces TI", 
+      "LitReview.Chord.0,13", 
+      "LitReview.Exp method.LMFA", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.AoA.3,2", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Exp method.Phased array", 
+      "LitReview.Brush Param.steel", 
+      "LitReview.Institutions.Ecole Centale de Lyon", 
+      "LitReview.Authors.A Finez", 
+      "LitReview.Brush Param.C 7,7%", 
+      "LitReview.Chord.0,8", 
+      "LitReview.Re.1600000", 
+      "LitReview.Focus.Brush parameters", 
+      "LitReview.Chord.0,4", 
+      "LitReview.Re.1100000", 
+      "LitReview.Brush Param.Polypropilene", 
+      "LitReview.Findings.Brush changes Green's function", 
+      "LitReview.Rating.*****", 
+      "LitReview.Authors.E Jondeau", 
+      "LitReview.Re.[173000 - 347000]", 
+      "LitReview.Authors.M Jacob", 
+      "LitReview.Brush Param.C 19%", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Findings.Brush cuts down correlation lifetime", 
+      "LitReview.Brush Param.C 30%", 
+      "LitReview.Findings.Brush L in the order of BL", 
+      "LitReview.Brush Param.C 24%", 
+      "LitReview.Airfoils.Flat plate", 
+      "LitReview.Brush Param.1,25% to 25% C", 
+      "LitReview.Exp method.AWBraunscheig", 
+      "LitReview.Exp method.Directional mics", 
+      "LitReview.Brush Param.C 28%", 
+      "LitReview.Reduction.-4 dB"
+   ], 
+   "type": "Device", 
+   "name": "LitReview.Device.Brushes"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.M Herr"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.DLR"
+},
+{
+   "imports": [], 
+   "type": "Rating", 
+   "name": "LitReview.Rating.*****"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.Polypropilene"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.steel"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.0,3 to 0,5 mm D"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.0,1 to 0,3 mm sep"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.1,25% to 25% C"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Brush parameters"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.AWBraunscheig"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.Directional mics"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.2100000"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,8"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-4 dB"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Best brushes: polyprop, 0,4 mm D, 8,75% C, 0,1 mm S"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.7900000"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.2,0"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1100000"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,4"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1600000"
+},
+{
+   "imports": [
+      "LitReview.Authors.J Winkler", 
+      "LitReview.Authors.S Moreau", 
+      "LitReview.Institutions.University of Siegen", 
+      "LitReview.Institutions.Valeo Thermal Systems", 
+      "LitReview.Rating.***", 
+      "LitReview.Airfoils.NACA 6512-63", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.Immersed LES in RANS", 
+      "LitReview.Focus.CAA", 
+      "LitReview.Num method.LES immersed in RANS", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.Num method.Curle", 
+      "LitReview.Re.190000", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Chord.1,0", 
+      "LitReview.Span.0,74", 
+      "LitReview.Findings.FW-H performs well"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Winkler2008", 
+   "year": 2008
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.J Winkler"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.S Moreau"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.University of Siegen"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Valeo Thermal Systems"
+},
+{
+   "imports": [
+      "LitReview.Authors.J Winkler", 
+      "LitReview.Authors.S Moreau", 
+      "LitReview.Institutions.University of Siegen", 
+      "LitReview.Institutions.Valeo Thermal Systems", 
+      "LitReview.Rating.***", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.Immersed LES in RANS", 
+      "LitReview.Focus.CAA", 
+      "LitReview.Num method.LES immersed in RANS", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.Num method.Curle", 
+      "LitReview.Re.190000", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Chord.1,0", 
+      "LitReview.Span.0,74"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA 6512-63"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Immersed LES in RANS"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.CAA"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.LES immersed in RANS"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.190000"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0,74"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.FW-H performs well"
+},
+{
+   "imports": [
+      "LitReview.Authors.F Mathey", 
+      "LitReview.Institutions.Fluent", 
+      "LitReview.Rating.***", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.Immersed LES in RANS", 
+      "LitReview.Focus.CAA", 
+      "LitReview.Num method.LES immersed in RANS", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.Re.1800000", 
+      "LitReview.AoA.0,0", 
+      "LitReview.Findings.FW-H performs well"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Mathey2007", 
+   "year": 2007
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.F Mathey"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Fluent"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1800000"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.T Chong", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Institutions.Brunel University", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.***", 
+      "LitReview.Serration Param.C 13%", 
+      "LitReview.Serration Param.C 7%", 
+      "LitReview.Serration Param.4:1", 
+      "LitReview.Serration Param.2,35:1", 
+      "LitReview.Serration Param.1:1", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Laminar noise", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Exp method.Single mic", 
+      "LitReview.Re.[100000 - 600000]", 
+      "LitReview.AoA.0,0", 
+      "LitReview.AoA.1,4", 
+      "LitReview.AoA.4,2", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Span.0,45", 
+      "LitReview.Findings.Reduction of laminar noise, 13 better than 7% C"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Chong2010", 
+   "year": 2010
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.T Chong"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.P Joseph"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.M Gruber"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Brunel University"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.University of Southampton"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 13%"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 7%"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.4:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.2,35:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.1:1"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Laminar noise"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.ISVR"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.Single mic"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.[100000 - 600000]"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.1,4"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.4,2"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,15"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0,45"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Reduction of laminar noise, 13 better than 7% C"
+},
+{
+   "imports": [
+      "LitReview.Device.Brushes", 
+      "LitReview.Authors.A Finez", 
+      "LitReview.Authors.E Jondeau", 
+      "LitReview.Authors.M Roger", 
+      "LitReview.Authors.M Jacob", 
+      "LitReview.Institutions.Ecole Centale de Lyon", 
+      "LitReview.Rating.*****", 
+      "LitReview.Brush Param.C 24%", 
+      "LitReview.Brush Param.C 30%", 
+      "LitReview.Brush Param.C 28%", 
+      "LitReview.Brush Param.C 7,7%", 
+      "LitReview.Brush Param.C 19%", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Brush parameters", 
+      "LitReview.Exp method.LMFA", 
+      "LitReview.Exp method.Phased array", 
+      "LitReview.Re.[173000 - 347000]", 
+      "LitReview.AoA.3,2", 
+      "LitReview.Chord.0,13", 
+      "LitReview.Span.0,3", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Findings.Brush L in the order of BL", 
+      "LitReview.Findings.Brush brakes up eddies and change l_y", 
+      "LitReview.Findings.Brush changes Green's function", 
+      "LitReview.Findings.Brush cuts down correlation lifetime", 
+      "LitReview.Findings.Brush slightly reduces TI", 
+      "LitReview.Findings.Brush disorganizes eddies"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Finez2010", 
+   "year": 2010
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.A Finez"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.E Jondeau"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.M Roger"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.M Jacob"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Ecole Centale de Lyon"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.C 24%"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.C 30%"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.C 28%"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.C 7,7%"
+},
+{
+   "imports": [], 
+   "type": "Brush Param", 
+   "name": "LitReview.Brush Param.C 19%"
+},
+{
+   "imports": [
+      "LitReview.Serration Param.C 20%", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Serration Param.C 19%", 
+      "LitReview.Authors.M Roger", 
+      "LitReview.Serration Param.6:1", 
+      "LitReview.Serration Param.Serrations with random pattern", 
+      "LitReview.Serration Param.10:1", 
+      "LitReview.Serration Param.C 12%", 
+      "LitReview.Serration Param.Serrations with holes", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Institutions.AVIO RD", 
+      "LitReview.AoA.15", 
+      "LitReview.Serration Param.3:1", 
+      "LitReview.Serration Param.Slits", 
+      "LitReview.AoA.[-5 - 15]", 
+      "LitReview.Authors.E Jondeau", 
+      "LitReview.Authors.R Rinaldi", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Chord.0,16", 
+      "LitReview.Span.0,3", 
+      "LitReview.Serration Param.20:1", 
+      "LitReview.Chord.0,13", 
+      "LitReview.Exp method.LMFA", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.AoA.3,2", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Re.800000", 
+      "LitReview.Authors.M Jacob", 
+      "LitReview.Rating.****", 
+      "LitReview.AoA.5", 
+      "LitReview.Re.[173000 - 347000]", 
+      "LitReview.Authors.A Iob", 
+      "LitReview.Ma.0,17", 
+      "LitReview.Institutions.Ecole Centale de Lyon", 
+      "LitReview.Authors.T Chong", 
+      "LitReview.Brush Param.C 7,7%", 
+      "LitReview.Focus.Brush parameters", 
+      "LitReview.Ma.0,4", 
+      "LitReview.Span.0,45", 
+      "LitReview.Authors.R Arina", 
+      "LitReview.Authors.M Azarpeyvand", 
+      "LitReview.Serration Param.Serrations with slits", 
+      "LitReview.Span.0,01", 
+      "LitReview.Re.[200000 - 600000]", 
+      "LitReview.Institutions.University of Cambridge", 
+      "LitReview.Rating.*****", 
+      "LitReview.Re.600000", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Num method.LES (SGS)", 
+      "LitReview.Exp method.Phased array", 
+      "LitReview.Brush Param.C 19%", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Serration Param.13:1", 
+      "LitReview.Institutions.Politecnico di Torino", 
+      "LitReview.Brush Param.C 30%", 
+      "LitReview.Re.200000", 
+      "LitReview.Device.Slits", 
+      "LitReview.Serration Param.C 13%", 
+      "LitReview.Brush Param.C 24%", 
+      "LitReview.AoA.0", 
+      "LitReview.Serration Param.[6,6:1 - 0,5:1]", 
+      "LitReview.Authors.A Finez", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.Exotic serrations", 
+      "LitReview.Focus.Validation of numerical vs experiment", 
+      "LitReview.Brush Param.C 28%", 
+      "LitReview.Authors.D Torzo", 
+      "LitReview.Institutions.Brunel University"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA 6512-10"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.LMFA"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.Phased array"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.[173000 - 347000]"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.3,2"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,13"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0,3"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Brush L in the order of BL"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Brush brakes up eddies and change l_y"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Brush changes Green's function"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Brush cuts down correlation lifetime"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Brush slightly reduces TI"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Brush disorganizes eddies"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Authors.M Azarpeyvand", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.****", 
+      "LitReview.Serration Param.20:1", 
+      "LitReview.Serration Param.13:1", 
+      "LitReview.Serration Param.10:1", 
+      "LitReview.Serration Param.6:1", 
+      "LitReview.Serration Param.3:1", 
+      "LitReview.Serration Param.C 19%", 
+      "LitReview.Serration Param.C 12%", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Focus.Serration parameters", 
+      "LitReview.Ma.0,4", 
+      "LitReview.AoA.[-5 - 15]", 
+      "LitReview.Chord.0,16", 
+      "LitReview.Span.0,45", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Findings.Best serrations, 6:1, 12% C", 
+      "LitReview.Findings.Worst serrations, 3:1, 6% C"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Gruber2010", 
+   "year": 2010
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.M Azarpeyvand"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.20:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.13:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.10:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.6:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.3:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 19%"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 12%"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0,4"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.[-5 - 15]"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,16"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Best serrations, 6:1, 12% C"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Worst serrations, 3:1, 6% C"
+},
+{
+   "imports": [
+      "LitReview.Method.Experimental", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Serration Param.Serrations with holes", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.AoA.15", 
+      "LitReview.Rating.*****", 
+      "LitReview.Re.200000", 
+      "LitReview.Chord.0,16", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Rating.****", 
+      "LitReview.Findings.All slits increase noise", 
+      "LitReview.Findings.Serrations with slits reduce on all frequency ranges", 
+      "LitReview.Ma.0,4", 
+      "LitReview.Span.0,45", 
+      "LitReview.Authors.M Azarpeyvand", 
+      "LitReview.Serration Param.Serrations with slits", 
+      "LitReview.AoA.[-5 - 15]", 
+      "LitReview.Serration Param.Slits", 
+      "LitReview.Institutions.University of Cambridge", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Serration Param.Serrations with random pattern", 
+      "LitReview.Re.800000", 
+      "LitReview.AoA.5", 
+      "LitReview.Focus.Exotic serrations"
+   ], 
+   "type": "Device", 
+   "name": "LitReview.Device.Slits"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.All slits increase noise"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Howe's theory on other TE geometries"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.L Jones", 
+      "LitReview.Authors.R Sandberg", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.****", 
+      "LitReview.Serration Param.1,2:1", 
+      "LitReview.Serration Param.2,4:1", 
+      "LitReview.Serration Param.C 6%", 
+      "LitReview.Serration Param.C 12%", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Num method.DNS", 
+      "LitReview.Re.50000", 
+      "LitReview.Ma.0,4", 
+      "LitReview.AoA.5", 
+      "LitReview.Findings.Serrations do not change directivity", 
+      "LitReview.Findings.Serrations do not change spanwise correlation", 
+      "LitReview.Findings.Serrations cause limit to max spanwise extent of turb structs", 
+      "LitReview.Findings.Serrations promote horseshoe vortices"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Jones2010", 
+   "year": 2010
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.L Jones"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.R Sandberg"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.1,2:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.2,4:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 6%"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.DNS"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.50000"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.5"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations do not change directivity"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations do not change spanwise correlation"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations cause limit to max spanwise extent of turb structs"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations promote horseshoe vortices"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Authors.T Chong", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Institutions.Brunel University", 
+      "LitReview.Rating.*****", 
+      "LitReview.Serration Param.C 12%", 
+      "LitReview.Serration Param.C 20%", 
+      "LitReview.Serration Param.[6,6:1 - 0,5:1]", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Re.[200000 - 600000]", 
+      "LitReview.AoA.0", 
+      "LitReview.AoA.5", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Span.0,45", 
+      "LitReview.Findings.Serrations increase noise after f(BL)/U>1", 
+      "LitReview.Findings.Serrations reduce noise for h/BL > 0,5", 
+      "LitReview.Findings.Serrations more effective for higher h/lambda"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Gruber2011", 
+   "year": 2011
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 20%"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.[6,6:1 - 0,5:1]"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.[200000 - 600000]"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.0"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations increase noise after f(BL)/U>1"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations reduce noise for h/BL > 0,5"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations more effective for higher h/lambda"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.R Arina", 
+      "LitReview.Authors.R Rinaldi", 
+      "LitReview.Authors.A Iob", 
+      "LitReview.Authors.D Torzo", 
+      "LitReview.Institutions.Politecnico di Torino", 
+      "LitReview.Institutions.AVIO RD", 
+      "LitReview.Rating.****", 
+      "LitReview.Serration Param.C 13%", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.Validation of numerical vs experiment", 
+      "LitReview.Num method.LES (SGS)", 
+      "LitReview.Re.600000", 
+      "LitReview.Ma.0,17", 
+      "LitReview.AoA.5", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Span.0,01", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Findings.Numerical is in good agreement with experiment"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Arina2012", 
+   "year": 2012
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.R Arina"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.R Rinaldi"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.A Iob"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.D Torzo"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Politecnico di Torino"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.AVIO RD"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Validation of numerical vs experiment"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.LES (SGS)"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.600000"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0,17"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0,01"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Numerical is in good agreement with experiment"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations (BTE)", 
+      "LitReview.Authors.TP Chong", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Institutions.Brunel University", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.****", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.BTE serrations", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Re.200000", 
+      "LitReview.Re.600000", 
+      "LitReview.AoA.4,2", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Span.0,45", 
+      "LitReview.Reduction.-8 dB", 
+      "LitReview.Findings.Best serrations: lower lambda", 
+      "LitReview.Findings.BTE serrations are better at higher f than flat ones", 
+      "LitReview.Findings.BTE serrations show low f components"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Gruber2012", 
+   "year": 2012
+},
+{
+   "imports": [
+      "LitReview.Authors.TP Chong", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Institutions.Brunel University", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.****", 
+      "LitReview.Airfoils.NACA 0012", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.BTE serrations", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Re.200000", 
+      "LitReview.Re.600000", 
+      "LitReview.AoA.4,2", 
+      "LitReview.Chord.0,15", 
+      "LitReview.Span.0,45", 
+      "LitReview.Reduction.-8 dB", 
+      "LitReview.Findings.Best serrations: lower lambda", 
+      "LitReview.Findings.BTE serrations are better at higher f than flat ones", 
+      "LitReview.Findings.BTE serrations show low f components"
+   ], 
+   "type": "Device", 
+   "name": "LitReview.Device.Serrations (BTE)"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.TP Chong"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.BTE serrations"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-8 dB"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Best serrations: lower lambda"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.BTE serrations are better at higher f than flat ones"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.BTE serrations show low f components"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.D Moreau", 
+      "LitReview.Authors.L Brooks", 
+      "LitReview.Authors.C Doolan", 
+      "LitReview.Institutions.The University of Adelaide", 
+      "LitReview.Rating.***", 
+      "LitReview.Serration Param.C 26%", 
+      "LitReview.Serration Param.5:1", 
+      "LitReview.Serration Param.1,6:1", 
+      "LitReview.Airfoils.Flat plate", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Exotic serrations", 
+      "LitReview.Exp method.Adelaide Wind Tunnel", 
+      "LitReview.Re.160000", 
+      "LitReview.Re.420000", 
+      "LitReview.AoA.0", 
+      "LitReview.Chord.135", 
+      "LitReview.Span.1,4", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Findings.Wide serrations are better"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Moreau2012", 
+   "year": 2012
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.D Moreau"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.L Brooks"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.C Doolan"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.The University of Adelaide"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.C 26%"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.5:1"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.1,6:1"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Exotic serrations"
+},
+{
+   "imports": [], 
+   "type": "Exp method", 
+   "name": "LitReview.Exp method.Adelaide Wind Tunnel"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.160000"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.420000"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.135"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.1,4"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Wide serrations are better"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.M Azerpeyvand", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Institutions.University of Cambridge", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.****", 
+      "LitReview.Method.Analytical", 
+      "LitReview.Focus.Howe's theory on other TE geometries", 
+      "LitReview.Findings.Serrations reduce the unsteady pressure difference", 
+      "LitReview.Findings.Serrations reduce correlation length", 
+      "LitReview.Findings.Serrations increase level of destructive interference", 
+      "LitReview.Findings.Serration optimized parameters given"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Azarpeyvand2013", 
+   "year": 2013
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.M Azerpeyvand"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.University of Cambridge"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations reduce the unsteady pressure difference"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations reduce correlation length"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations increase level of destructive interference"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serration optimized parameters given"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Device.Slits", 
+      "LitReview.Authors.M Gruber", 
+      "LitReview.Authors.P Joseph", 
+      "LitReview.Authors.M Azarpeyvand", 
+      "LitReview.Institutions.University of Cambridge", 
+      "LitReview.Institutions.University of Southampton", 
+      "LitReview.Rating.*****", 
+      "LitReview.Serration Param.Slits", 
+      "LitReview.Serration Param.Serrations with holes", 
+      "LitReview.Serration Param.Serrations with slits", 
+      "LitReview.Serration Param.Serrations with random pattern", 
+      "LitReview.Airfoils.NACA 6512-10", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Exotic serrations", 
+      "LitReview.Exp method.ISVR", 
+      "LitReview.Re.200000", 
+      "LitReview.Re.800000", 
+      "LitReview.AoA.5", 
+      "LitReview.AoA.15", 
+      "LitReview.Chord.0,16", 
+      "LitReview.Span.0,45", 
+      "LitReview.Reduction.-5 dB", 
+      "LitReview.Findings.Serrations with slits reduce on all frequency ranges"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Gruber2013", 
+   "year": 2013
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.Slits"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.Serrations with holes"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.Serrations with slits"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.Serrations with random pattern"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.800000"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.15"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations with slits reduce on all frequency ranges"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Authors.D Moreau", 
+      "LitReview.Authors.C Doolan", 
+      "LitReview.Institutions.University of Adelaide", 
+      "LitReview.Rating.****", 
+      "LitReview.Serration Param.C 6%", 
+      "LitReview.Serration Param.10:1", 
+      "LitReview.Serration Param.3,3:1", 
+      "LitReview.Airfoils.Flat plate", 
+      "LitReview.Method.Experimental", 
+      "LitReview.Focus.Howe's theory validation", 
+      "LitReview.Exp method.Adelaide Wind Tunnel", 
+      "LitReview.Re.160000", 
+      "LitReview.Re.420000", 
+      "LitReview.AoA.0", 
+      "LitReview.Chord.0,45", 
+      "LitReview.Reduction.-3 dB", 
+      "LitReview.Findings.Serrations, wide perform better", 
+      "LitReview.Findings.St number reduction scaling depends on airfoil", 
+      "LitReview.Findings.Serrations affect the flow field (Howe says they don't)"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Moreau2013a", 
+   "year": 2013
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.University of Adelaide"
+},
+{
+   "imports": [], 
+   "type": "Serration Param", 
+   "name": "LitReview.Serration Param.3,3:1"
+},
+{
+   "imports": [], 
+   "type": "Focus", 
+   "name": "LitReview.Focus.Howe's theory validation"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0,45"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations, wide perform better"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.St number reduction scaling depends on airfoil"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Serrations affect the flow field (Howe says they don't)"
+},
+{
+   "imports": [
+      "LitReview.Authors.Wolf, WR", 
+      "LitReview.Authors.Lele, SK", 
+      "LitReview.Authors.Jothiprasad, G", 
+      "LitReview.Authors.Cheung, L", 
+      "LitReview.Institutions.Institute of Aeronautics and Space, S\u02dcao Jos\u00b4e dos Campos", 
+      "LitReview.Rating.****", 
+      "LitReview.Airfoils.DU96", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.CAA benchmark", 
+      "LitReview.Num method.LES", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.Num method.Amiet", 
+      "LitReview.Re.600000", 
+      "LitReview.Re.1500000", 
+      "LitReview.Ma.0.2", 
+      "LitReview.AoA.6", 
+      "LitReview.Findings.Found vortex shedding at higher than the recommended BL and TE thickness ratios", 
+      "LitReview.Findings.Good agreement with literature results"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Wolf2012", 
+   "year": 2012
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.Wolf, WR"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.Lele, SK"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.Jothiprasad, G"
+},
+{
+   "imports": [], 
+   "type": "Authors", 
+   "name": "LitReview.Authors.Cheung, L"
+},
+{
+   "imports": [], 
+   "type": "Institutions", 
+   "name": "LitReview.Institutions.Institute of Aeronautics and Space, S\u02dcao Jos\u00b4e dos Campos"
+},
+{
+   "imports": [
+      "LitReview.Authors.Wolf, WR", 
+      "LitReview.Authors.Lele, SK", 
+      "LitReview.Authors.Jothiprasad, G", 
+      "LitReview.Authors.Cheung, L", 
+      "LitReview.Institutions.Institute of Aeronautics and Space, S\u02dcao Jos\u00b4e dos Campos", 
+      "LitReview.Rating.****", 
+      "LitReview.Method.Numerical", 
+      "LitReview.Focus.CAA benchmark", 
+      "LitReview.Num method.LES", 
+      "LitReview.Num method.FW-H", 
+      "LitReview.Num method.Amiet", 
+      "LitReview.Re.600000", 
+      "LitReview.Re.1500000", 
+      "LitReview.Ma.0.2", 
+      "LitReview.AoA.6"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.DU96"
+},
+{
+   "imports": [], 
+   "type": "Num method", 
+   "name": "LitReview.Num method.Amiet"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1500000"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0.2"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.6"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Found vortex shedding at higher than the recommended BL and TE thickness ratios"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Good agreement with literature results"
+}]

@@ -1,0 +1,849 @@
+[
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Research_method.Analytical", 
+      "LitReview.Research_focus.Green's_function", 
+      "LitReview.AoA.0.0", 
+      "LitReview.Reduction.-10_dB"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Howe1990", 
+   "year": 1990
+},
+{
+   "imports": [
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Incident", 
+      "LitReview.Span.0.51", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Reduction.-10_dB", 
+      "LitReview.Device_subtype.\u201c10:1\u201d", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Reduction.+5_dB", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_teeth", 
+      "LitReview.AoA.0.0", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_airfoil,_straight_teeth", 
+      "LitReview.Research_focus.Green's_function", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_TE,_straight_teeth", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Findings.No_U_dependency_for_reduction", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Research_method.Analytical", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Re.1.4x10^6"
+   ], 
+   "type": "Device", 
+   "name": "LitReview.Device.Serrations"
+},
+{
+   "imports": [
+      "LitReview.Device_subtype.0.1_to_0.3mm_separation", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Device_subtype.0.3_to_0.5mm_diameter", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Research_focus.Green's_function", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Reduction.-10_dB", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Device_subtype.Polypropilene_", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Device_subtype.1.25%_to_25%_chord", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Research_method.Analytical", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Device_subtype.steel", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Device.Serrations", 
+      "LitReview.AoA.0.0", 
+      "LitReview.Research_method.Experimental"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.Flat_plate"
+},
+{
+   "imports": [], 
+   "type": "Research_method", 
+   "name": "LitReview.Research_method.Analytical"
+},
+{
+   "imports": [], 
+   "type": "Research_focus", 
+   "name": "LitReview.Research_focus.Green's_function"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.0.0"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-10_dB"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Device_subtype.\u201c10:1\u201d", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Re.1.4x10^6", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Findings.No_U_dependency_for_reduction"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Dassen1996", 
+   "year": 1996
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Re.1.4x10^6", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Findings.No_U_dependency_for_reduction"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.\u201c10:1\u201d"
+},
+{
+   "imports": [
+      "LitReview.Ma.0.22", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_airfoil,_straight_teeth", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_TE,_straight_teeth", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Device_subtype.\u201c10:1\u201d", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_teeth", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.+5_dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Incident", 
+      "LitReview.Re.1.4x10^6"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA0012_"
+},
+{
+   "imports": [
+      "LitReview.Ma.0.22", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_airfoil,_straight_teeth", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_TE,_straight_teeth", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Device_subtype.\u201c10:1\u201d", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_teeth", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.+5_dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Incident", 
+      "LitReview.Re.1.4x10^6"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA63018_"
+},
+{
+   "imports": [
+      "LitReview.Ma.0.22", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_airfoil,_straight_teeth", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_TE,_straight_teeth", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Device_subtype.\u201c10:1\u201d", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_teeth", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.+5_dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Incident", 
+      "LitReview.Re.1.4x10^6"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA63618_"
+},
+{
+   "imports": [
+      "LitReview.Ma.0.22", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_airfoil,_straight_teeth", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_TE,_straight_teeth", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Device_subtype.\u201c10:1\u201d", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Reduction.-5_dB", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Angled_teeth", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.+5_dB", 
+      "LitReview.Device.Serrations", 
+      "LitReview.Device_subtype.\u201c10:1\u201d_Incident", 
+      "LitReview.Re.1.4x10^6"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA4418"
+},
+{
+   "imports": [], 
+   "type": "Research_method", 
+   "name": "LitReview.Research_method.Experimental"
+},
+{
+   "imports": [], 
+   "type": "Research_focus", 
+   "name": "LitReview.Research_focus.Serration_shape"
+},
+{
+   "imports": [], 
+   "type": "Experimental_method", 
+   "name": "LitReview.Experimental_method.Wind_tunnel"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.7x10^5"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1x10^6"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1.4x10^6"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0.12"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0.18"
+},
+{
+   "imports": [], 
+   "type": "Ma", 
+   "name": "LitReview.Ma.0.22"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0.25"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0.51"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-5_dB"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.No_U_dependency_for_reduction"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Re.1.4x10^6", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.+5_dB", 
+      "LitReview.Findings.No_U_dependency_for_reduction"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.\u201c10:1\u201d_Incident"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.+5_dB"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Re.1.4x10^6", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Findings.No_U_dependency_for_reduction"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.\u201c10:1\u201d_Angled_TE,_straight_teeth"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-3_dB"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Re.1.4x10^6", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Findings.No_U_dependency_for_reduction"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.\u201c10:1\u201d_Angled_teeth"
+},
+{
+   "imports": [
+      "LitReview.Device.Serrations", 
+      "LitReview.Airfoils.NACA0012_", 
+      "LitReview.Airfoils.NACA63018_", 
+      "LitReview.Airfoils.NACA63618_", 
+      "LitReview.Airfoils.NACA4418", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Serration_shape", 
+      "LitReview.Experimental_method.Wind_tunnel", 
+      "LitReview.Re.7x10^5", 
+      "LitReview.Re.1x10^6", 
+      "LitReview.Re.1.4x10^6", 
+      "LitReview.Ma.0.12", 
+      "LitReview.Ma.0.18", 
+      "LitReview.Ma.0.22", 
+      "LitReview.Chord.0.25", 
+      "LitReview.Span.0.51", 
+      "LitReview.Reduction.-3_dB", 
+      "LitReview.Findings.No_U_dependency_for_reduction"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.\u201c10:1\u201d_Angled_airfoil,_straight_teeth"
+},
+{
+   "imports": [
+      "LitReview.Airfoils.Eppler387", 
+      "LitReview.Research_method.Numerical", 
+      "LitReview.Research_focus.CAA_benchmark", 
+      "LitReview.Numerical_method.LES", 
+      "LitReview.Numerical_method.Curle", 
+      "LitReview.Numerical_method.FW-H", 
+      "LitReview.AoA.0.0"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Oberai2002", 
+   "year": 2002
+},
+{
+   "imports": [
+      "LitReview.Research_method.Numerical", 
+      "LitReview.Research_focus.CAA_benchmark", 
+      "LitReview.Numerical_method.LES", 
+      "LitReview.Numerical_method.Curle", 
+      "LitReview.Numerical_method.FW-H", 
+      "LitReview.AoA.0.0"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.Eppler387"
+},
+{
+   "imports": [], 
+   "type": "Research_method", 
+   "name": "LitReview.Research_method.Numerical"
+},
+{
+   "imports": [], 
+   "type": "Research_focus", 
+   "name": "LitReview.Research_focus.CAA_benchmark"
+},
+{
+   "imports": [], 
+   "type": "Numerical_method", 
+   "name": "LitReview.Numerical_method.LES"
+},
+{
+   "imports": [], 
+   "type": "Numerical_method", 
+   "name": "LitReview.Numerical_method.Curle"
+},
+{
+   "imports": [], 
+   "type": "Numerical_method", 
+   "name": "LitReview.Numerical_method.FW-H"
+},
+{
+   "imports": [
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Research_method.Numerical", 
+      "LitReview.Research_focus.CAA_benchmark", 
+      "LitReview.Numerical_method.LES", 
+      "LitReview.Numerical_method.Curle_", 
+      "LitReview.Re.2x10^5", 
+      "LitReview.AoA.9.0", 
+      "LitReview.Chord.1.0", 
+      "LitReview.Span.0.5"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Kato2005", 
+   "year": 2005
+},
+{
+   "imports": [
+      "LitReview.Device_subtype.0.3_to_0.5mm_diameter", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Re.2x10^5", 
+      "LitReview.Device_subtype.1.25%_to_25%_chord", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_focus.CAA_benchmark", 
+      "LitReview.Span.0.5", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Research_method.Numerical", 
+      "LitReview.AoA.9.0", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Chord.1.0", 
+      "LitReview.Device_subtype.Polypropilene_", 
+      "LitReview.Device_subtype.0.1_to_0.3mm_separation", 
+      "LitReview.Numerical_method.LES", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Device_subtype.steel", 
+      "LitReview.Numerical_method.Curle_", 
+      "LitReview.Research_method.Experimental"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA0012"
+},
+{
+   "imports": [], 
+   "type": "Numerical_method", 
+   "name": "LitReview.Numerical_method.Curle_"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.2x10^5"
+},
+{
+   "imports": [], 
+   "type": "AoA", 
+   "name": "LitReview.AoA.9.0"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.1.0"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0.5"
+},
+{
+   "imports": [
+      "LitReview.Device.Brushes", 
+      "LitReview.Device_subtype.Polypropilene_", 
+      "LitReview.Device_subtype.steel", 
+      "LitReview.Device_subtype.0.3_to_0.5mm_diameter", 
+      "LitReview.Device_subtype.0.1_to_0.3mm_separation", 
+      "LitReview.Device_subtype.1.25%_to_25%_chord", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Herr2007", 
+   "year": 2007
+},
+{
+   "imports": [
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Device_subtype.0.1_to_0.3mm_separation", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Device_subtype.0.3_to_0.5mm_diameter", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Device_subtype.Polypropilene_", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Device_subtype.1.25%_to_25%_chord", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Device_subtype.steel", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Device", 
+   "name": "LitReview.Device.Brushes"
+},
+{
+   "imports": [
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.Polypropilene_"
+},
+{
+   "imports": [
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.steel"
+},
+{
+   "imports": [
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.0.3_to_0.5mm_diameter"
+},
+{
+   "imports": [
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.0.1_to_0.3mm_separation"
+},
+{
+   "imports": [
+      "LitReview.Re.1.6X10^6", 
+      "LitReview.Experimental_method.Directional_mics", 
+      "LitReview.Research_focus.Brush_parameters", 
+      "LitReview.Chord.0.4", 
+      "LitReview.Device.Brushes", 
+      "LitReview.Chord.0.8", 
+      "LitReview.Airfoils.NACA0012", 
+      "LitReview.Airfoils.Flat_plate", 
+      "LitReview.Reduction.-4_dB", 
+      "LitReview.Chord.2.0", 
+      "LitReview.Re.2.1x10^6", 
+      "LitReview.Reduction.-10dB", 
+      "LitReview.Re.1.1X10^6", 
+      "LitReview.Re.7.9x10^6", 
+      "LitReview.Experimental_method.AWBraunscheig", 
+      "LitReview.Research_method.Experimental", 
+      "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+   ], 
+   "type": "Device_subtype", 
+   "name": "LitReview.Device_subtype.1.25%_to_25%_chord"
+},
+{
+   "imports": [], 
+   "type": "Research_focus", 
+   "name": "LitReview.Research_focus.Brush_parameters"
+},
+{
+   "imports": [], 
+   "type": "Experimental_method", 
+   "name": "LitReview.Experimental_method.AWBraunscheig"
+},
+{
+   "imports": [], 
+   "type": "Experimental_method", 
+   "name": "LitReview.Experimental_method.Directional_mics"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.2.1x10^6"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0.8"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-4_dB"
+},
+{
+   "imports": [], 
+   "type": "Reduction", 
+   "name": "LitReview.Reduction.-10dB"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.Best_brushes:_polypropylene,_0.4_mm_diameter,_8.75%_chord_length,_0.1_mm_spacing"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.7.9x10^6"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.2.0"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1.1X10^6"
+},
+{
+   "imports": [], 
+   "type": "Chord", 
+   "name": "LitReview.Chord.0.4"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1.6X10^6"
+},
+{
+   "imports": [
+      "LitReview.Airfoils.NACA651263", 
+      "LitReview.Research_method.Numerical", 
+      "LitReview.Research_focus.Immersed_LES_in_RANS_and_CAA", 
+      "LitReview.Numerical_method.LES_immersed_in_RANS", 
+      "LitReview.Numerical_method.FW-H", 
+      "LitReview.Numerical_method.Curle", 
+      "LitReview.Re.1.9x10^5", 
+      "LitReview.AoA.0.0", 
+      "LitReview.Chord.1.0", 
+      "LitReview.Span.0.074", 
+      "LitReview.Findings.FW-H_performs_well"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Winkler2008", 
+   "year": 2008
+},
+{
+   "imports": [
+      "LitReview.Research_method.Numerical", 
+      "LitReview.Research_focus.Immersed_LES_in_RANS_and_CAA", 
+      "LitReview.Numerical_method.LES_immersed_in_RANS", 
+      "LitReview.Numerical_method.FW-H", 
+      "LitReview.Numerical_method.Curle", 
+      "LitReview.Re.1.9x10^5", 
+      "LitReview.AoA.0.0", 
+      "LitReview.Chord.1.0", 
+      "LitReview.Span.0.074"
+   ], 
+   "type": "Airfoils", 
+   "name": "LitReview.Airfoils.NACA651263"
+},
+{
+   "imports": [], 
+   "type": "Research_focus", 
+   "name": "LitReview.Research_focus.Immersed_LES_in_RANS_and_CAA"
+},
+{
+   "imports": [], 
+   "type": "Numerical_method", 
+   "name": "LitReview.Numerical_method.LES_immersed_in_RANS"
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1.9x10^5"
+},
+{
+   "imports": [], 
+   "type": "Span", 
+   "name": "LitReview.Span.0.074"
+},
+{
+   "imports": [], 
+   "type": "Findings", 
+   "name": "LitReview.Findings.FW-H_performs_well"
+},
+{
+   "imports": [
+      "LitReview.Research_method.Numerical", 
+      "LitReview.Research_focus.Immersed_LES_in_RANS_and_CAA", 
+      "LitReview.Numerical_method.LES_immersed_in_RANS", 
+      "LitReview.Numerical_method.FW-H", 
+      "LitReview.Re.1.8x10^6", 
+      "LitReview.AoA.0.0", 
+      "LitReview.Findings.FW-H_performs_well"
+   ], 
+   "type": "Paper", 
+   "name": "LitReview.Paper.Mathey2007", 
+   "year": 2007
+},
+{
+   "imports": [], 
+   "type": "Re", 
+   "name": "LitReview.Re.1.8x10^6"
+}]
